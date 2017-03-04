@@ -1,4 +1,4 @@
-DISTELLI USERNAME/tomcat-war-docker:
+thuyduong1203/java_servlet:
 
   Env:
     # Set the below enviornment variables for your environment
